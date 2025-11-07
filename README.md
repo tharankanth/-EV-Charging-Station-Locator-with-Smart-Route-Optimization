@@ -200,10 +200,3 @@ Research Papers:
 Datasets: EV chargingstations and model(https://www.kaggle.com/datasets/tarekmasryo/global-ev-charging-stations) Electric Vehicles charging stations in India (https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india)
 
 
-##  License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-**Built with ❤️ for a sustainable future**
