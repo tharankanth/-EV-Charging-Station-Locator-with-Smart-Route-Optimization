@@ -198,5 +198,8 @@ Research Papers:
 2. "Machine Learning for EV Range Prediction" ACM 2024
 3. "Smart Grid Integration for EV Charging" Springer 2024
 Datasets: EV chargingstations and model(https://www.kaggle.com/datasets/tarekmasryo/global-ev-charging-stations) Electric Vehicles charging stations in India (https://www.kaggle.com/datasets/saketpradhan/electric-vehicle-charging-stations-in-india)
+   ## #C0ntact
+   mail:tharankanth@gmail.com
+   ## github:https://github.com/tharankanth
 
 
